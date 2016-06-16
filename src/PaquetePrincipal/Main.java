@@ -17,6 +17,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Ingenieria Prueba");
         System.out.println("Ingenieria Prueba del MASTER !!");
+        System.err.println("Pollos !!");
     }
     
 }
