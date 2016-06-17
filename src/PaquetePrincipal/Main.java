@@ -15,7 +15,7 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //El erik debe pagarle mas a los empleados
+        //El erik debe pagarle mas a los empleados jejeje
         System.out.println("Ingenieria Prueba");
         System.out.println("Ingenieria Prueba del MASTER !!");
         System.err.println("Pollos !!");
